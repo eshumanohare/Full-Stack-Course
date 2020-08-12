@@ -1,0 +1,25 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "\u001b[This is a test diretory to learn Git and Node\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[Dc\u001b[C\u001b[Dt\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server",
+    "stop": "lite-server --stop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshumanohare/Full-Stack-Course.git"
+  },
+  "author": "Eshu Manohare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eshumanohare/Full-Stack-Course/issues"
+  },
+  "homepage": "https://github.com/eshumanohare/Full-Stack-Course#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
